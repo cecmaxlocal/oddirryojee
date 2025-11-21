@@ -309,7 +309,7 @@ Sleep ' Wait for a keypress
 '' -------------------------------------------------------------------------------------
 
 '' Returned from Sub.
-The 'myLives' variable is now: 4
+'' The 'myLives' variable is now: 4
 'Field' has now been set to: 0
 
 '' Program End. Press any key to exit.
