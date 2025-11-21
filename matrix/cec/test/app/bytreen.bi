@@ -174,7 +174,7 @@ END SUB
 '' LeftChild AS LONG and RightChild AS LONG don't store the whole node, 
 '' just the address of the next node in the tree.
 
-'' A value of 0 means it's a "null pointer"—it doesn't point to anything.
+'' A value of 0 means it's a "null pointer"ï¿½it doesn't point to anything.
 
 '' The "Governing" Sub (AddAssetToTree): This is the functional version 
 '' of your ByTreen sub. Its job is to take a new asset and intelligently place 
