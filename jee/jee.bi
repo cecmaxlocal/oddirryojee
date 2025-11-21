@@ -10,7 +10,7 @@ Select Case As Byte HopeLivesToRevivalLiving Field = 0
              
              Var HopeLivesLiving = New LivingLives : Living => Lives() :  UByte Or Byte
              Print "-------------------------------------------------------------------------------------"
-             Print     "Hope Lives Living to Living Event Lives in Lives Ubyte or Byte"
+             Print     "Hope Lives Living to Living Event Lives in Lives Connect"
              Print "-------------------------------------------------------------------------------------"
              Print HopeLivesLiving : Field => 0
              Print "Entry Living Program: " 
@@ -27,7 +27,7 @@ Select Case As Byte HopeLivesToRevivalLiving Field = 0
              
              Var HopeLivesLiving = New LivingLives : Living => Lives() :  UByte Or Byte
              Print "-------------------------------------------------------------------------------------"
-             Print     "Hope Lives Living to Living Event Lives in Lives Ubyte or Byte"
+             Print     "Hope Lives Living to Living Event Lives in Lives Connect"
              Print "-------------------------------------------------------------------------------------"
              Print HopeLivesLiving : Field => 0
              Print "Entry Living Program: " 
@@ -44,7 +44,7 @@ Select Case As Byte HopeLivesToRevivalLiving Field = 0
              
              Var HopeLivesLiving = New LivingLives : Living => Lives() :  UByte Or Byte
              Print "-------------------------------------------------------------------------------------"
-             Print     "Hope Lives Living to Living Event Lives in Lives Ubyte or Byte"
+             Print     "Hope Lives Living to Living Event Lives in Lives Connect"
              Print "-------------------------------------------------------------------------------------"
              Print HopeLivesLiving : Field => 0
              Print "Entry Living Program: " 
@@ -61,7 +61,7 @@ Select Case As Byte HopeLivesToRevivalLiving Field = 0
              
              Var HopeLivesLiving = New LivingLives : Living => Lives() :  UByte Or Byte
              Print "-------------------------------------------------------------------------------------"
-             Print     "Hope Lives Living to Living Event Lives in Lives Ubyte or Byte"
+             Print     "Hope Lives Living to Living Event Lives in Lives Connect"
              Print "-------------------------------------------------------------------------------------"
              Print HopeLivesLiving : Field => 0
              Print "Entry Living Program: " 
@@ -78,7 +78,7 @@ Select Case As Byte HopeLivesToRevivalLiving Field = 0
              
              Var HopeLivesLiving = New LivingLives : Living => Lives() :  UByte Or Byte
              Print "-------------------------------------------------------------------------------------"
-             Print     "Hope Lives Living to Living Event Lives in Lives Ubyte or Byte"
+             Print     "Hope Lives Living to Living Event Lives in Lives Connect"
              Print "-------------------------------------------------------------------------------------"
              Print HopeLivesLiving : Field => 0
              Print "Entry Living Program: " 
@@ -95,7 +95,7 @@ Select Case As Byte HopeLivesToRevivalLiving Field = 0
              
              Var HopeLivesLiving = New LivingLives : Living => Lives() :  UByte Or Byte
              Print "-------------------------------------------------------------------------------------"
-             Print     "Hope Lives Living to Living Event Lives in Lives Ubyte or Byte"
+             Print     "Hope Lives Living to Living Event Lives in Lives Connect"
              Print "-------------------------------------------------------------------------------------"
              Print HopeLivesLiving : Field => 0
              Print "Entry Living Program: " 
@@ -112,7 +112,7 @@ Select Case As Byte HopeLivesToRevivalLiving Field = 0
              
              Var HopeLivesLiving = New LivingLives : Living => Lives() :  UByte Or Byte
              Print "-------------------------------------------------------------------------------------"
-             Print     "Hope Lives Living to Living Event Lives in Lives Ubyte or Byte"
+             Print     "Hope Lives Living to Living Event Lives in Lives Connect"
              Print "-------------------------------------------------------------------------------------"
              Print HopeLivesLiving : Field => 0
              Print "Entry Living Program: " 
@@ -129,7 +129,7 @@ Select Case As Byte HopeLivesToRevivalLiving Field = 0
              
              Var HopeLivesLiving = New LivingLives : Living => Lives() :  UByte Or Byte
              Print "-------------------------------------------------------------------------------------"
-             Print     "Hope Lives Living to Living Event Lives in Lives Ubyte or Byte"
+             Print     "Hope Lives Living to Living Event Lives in Lives Connect"
              Print "-------------------------------------------------------------------------------------"
              Print HopeLivesLiving : Field => 0
              Print "Entry Living Program: " 
@@ -146,7 +146,7 @@ Select Case As Byte HopeLivesToRevivalLiving Field = 0
              
              Var HopeLivesLiving = New LivingLives : Living => Lives() :  UByte Or Byte
              Print "-------------------------------------------------------------------------------------"
-             Print     "Hope Lives Living to Living Event Lives in Lives Ubyte or Byte"
+             Print     "Hope Lives Living to Living Event Lives in Lives Connect"
              Print "-------------------------------------------------------------------------------------"
              Print HopeLivesLiving : Field => 0
              Print "Entry Living Program: " 
@@ -163,7 +163,7 @@ Select Case As Byte HopeLivesToRevivalLiving Field = 0
              
              Var HopeLivesLiving = New LivingLives : Living => Lives() :  UByte Or Byte
              Print "-------------------------------------------------------------------------------------"
-             Print     "Hope Lives Living to Living Event Lives in Lives Ubyte or Byte"
+             Print     "Hope Lives Living to Living Event Lives in Lives Connect"
              Print "-------------------------------------------------------------------------------------"
              Print HopeLivesLiving : Field => 0
              Print "Entry Living Program: " 
