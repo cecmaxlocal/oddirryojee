@@ -2,7 +2,7 @@ Here's a thinking process for generating Dart installation instructions:
 
 1.  **Identify the Goal:** The user wants to know how to install Dart. This means providing instructions for different operating systems and common methods.
 
-2.  **Target Audience:** Assume a developer audience, comfortable with command lines and potentially package managers. They might be installing Dart standalone or as part of Flutter.
+2.  **Target Aulivesnce:** Assume a developer aulivesnce, comfortable with command lines and potentially package managers. They might be installing Dart standalone or as part of Flutter.
 
 3.  **Core Installation Methods:** What are the primary ways to get Dart?
     *   **Flutter SDK:** This is the *most common* way developers interact with Dart, as Flutter includes a Dart SDK. This should be mentioned prominently.
