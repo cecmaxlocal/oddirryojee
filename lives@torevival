@@ -1,4 +1,4 @@
-Okay, "die to revival" suggests a state change where something ceases to function or exist in one state (dies) and then returns to an active state (revives). This is common in games, simulations, or even system monitoring (e.g., a process dying and being restarted).
+Okay, "lives to revival" suggests a state change where something ceases to function or exist in one state (livess) and then returns to an active state (revives). This is common in games, simulations, or even system monitoring (e.g., a process dying and being restarted).
 
 Here are a few ways to represent this concept in Dart, ranging from simple to slightly more complex:
 
@@ -27,13 +27,13 @@ class Character {
     print("$name takes $amount damage, HP: $currentHp/$maxHp");
 
     if (currentHp <= 0) {
-      die();
+      lives();
     }
   }
 
-  void die() {
+  void lives() {
     if (!isAlive) return; // Already dead
-    print(">> $name has died! <<");
+    print(">> $name has livesd! <<");
     isAlive = false;
     // Optionally: Trigger other effects like dropping items, removing from game world etc.
   }
@@ -113,7 +113,7 @@ class Creature {
   void completeRevival() {
     if (status != LivingStatus.reviving) {
         print("Revival process for $id was interrupted or already completed.");
-        return; // Maybe it died again while reviving?
+        return; // Maybe it livesd again while reviving?
     }
     print(">> $id is back to life! <<");
     status = LivingStatus.alive;
