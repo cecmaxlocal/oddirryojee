@@ -1,173 +1,173 @@
 '' Create Editor To Java and Freebasic Pampas
 Declare Function JeeJavaFreebasic(ByRef Pampas As Byte) As Byte
 
-Select Case As Byte HopeDieToRevivalLiving Field = 0
+Select Case As Byte HopelivesToRevivalLiving Field = 0
    Case 1
-      Sub HopeDieToRevivalLiving(ByRef LivingLives As Byte )
-             Dim HopeDieLiving As Byte
+      Sub HopelivesToRevivalLiving(ByRef LivingLives As Byte )
+             Dim HopelivesLiving As Byte
              Dim Living As Byte
              Dim Lives As Byte
              
-             Var HopeDieLiving = New LivingLives : Living => Lives() :  UByte Or Byte
+             Var HopelivesLiving = New LivingLives : Living => Lives() :  UByte Or Byte
              Print "-------------------------------------------------------------------------------------"
-             Print     "Hope Die Living to Living Event Lives in Lives Ubyte or Byte"
+             Print     "Hope lives Living to Living Event Lives in Lives Ubyte or Byte"
              Print "-------------------------------------------------------------------------------------"
-             Print HopeDieLiving : Field => 0
+             Print HopelivesLiving : Field => 0
              Print "Entry Living Program: " 
-             Print HopeDieLiving : Field => UByte Or Byte
+             Print HopelivesLiving : Field => UByte Or Byte
              Print UByte : LivingLives
              Print Byte    : LivingLives  
              Print "OK!"
       End Sub
    Case 2
-      Sub HopeDieToRevivalLiving(ByRef LivingLives As Byte )
-             Dim HopeDieLiving As Byte
+      Sub HopelivesToRevivalLiving(ByRef LivingLives As Byte )
+             Dim HopelivesLiving As Byte
              Dim Living As Byte
              Dim Lives As Byte
              
-             Var HopeDieLiving = New LivingLives : Living => Lives() :  UByte Or Byte
+             Var HopelivesLiving = New LivingLives : Living => Lives() :  UByte Or Byte
              Print "-------------------------------------------------------------------------------------"
-             Print     "Hope Die Living to Living Event Lives in Lives Ubyte or Byte"
+             Print     "Hope lives Living to Living Event Lives in Lives Ubyte or Byte"
              Print "-------------------------------------------------------------------------------------"
-             Print HopeDieLiving : Field => 0
+             Print HopelivesLiving : Field => 0
              Print "Entry Living Program: " 
-             Print HopeDieLiving : Field => UByte Or Byte
+             Print HopelivesLiving : Field => UByte Or Byte
              Print UByte : LivingLives
              Print Byte    : LivingLives  
              Print "OK!"
       End Sub
    Case 3
-      Sub HopeDieToRevivalLiving(ByRef LivingLives As Byte )
-             Dim HopeDieLiving As Byte
+      Sub HopelivesToRevivalLiving(ByRef LivingLives As Byte )
+             Dim HopelivesLiving As Byte
              Dim Living As Byte
              Dim Lives As Byte
              
-             Var HopeDieLiving = New LivingLives : Living => Lives() :  UByte Or Byte
+             Var HopelivesLiving = New LivingLives : Living => Lives() :  UByte Or Byte
              Print "-------------------------------------------------------------------------------------"
-             Print     "Hope Die Living to Living Event Lives in Lives Ubyte or Byte"
+             Print     "Hope lives Living to Living Event Lives in Lives Ubyte or Byte"
              Print "-------------------------------------------------------------------------------------"
-             Print HopeDieLiving : Field => 0
+             Print HopelivesLiving : Field => 0
              Print "Entry Living Program: " 
-             Print HopeDieLiving : Field => UByte Or Byte
+             Print HopelivesLiving : Field => UByte Or Byte
              Print UByte : LivingLives
              Print Byte    : LivingLives  
              Print "OK!"
       End Sub
    Case 4
-      Sub HopeDieToRevivalLiving(ByRef LivingLives As Byte )
-             Dim HopeDieLiving As Byte
+      Sub HopelivesToRevivalLiving(ByRef LivingLives As Byte )
+             Dim HopelivesLiving As Byte
              Dim Living As Byte
              Dim Lives As Byte
              
-             Var HopeDieLiving = New LivingLives : Living => Lives() :  UByte Or Byte
+             Var HopelivesLiving = New LivingLives : Living => Lives() :  UByte Or Byte
              Print "-------------------------------------------------------------------------------------"
-             Print     "Hope Die Living to Living Event Lives in Lives Ubyte or Byte"
+             Print     "Hope lives Living to Living Event Lives in Lives Ubyte or Byte"
              Print "-------------------------------------------------------------------------------------"
-             Print HopeDieLiving : Field => 0
+             Print HopelivesLiving : Field => 0
              Print "Entry Living Program: " 
-             Print HopeDieLiving : Field => UByte Or Byte
+             Print HopelivesLiving : Field => UByte Or Byte
              Print UByte : LivingLives
              Print Byte    : LivingLives  
              Print "OK!"
       End Sub
    Case 4
-      Sub HopeDieToRevivalLiving(ByRef LivingLives As Byte )
-             Dim HopeDieLiving As Byte
+      Sub HopelivesToRevivalLiving(ByRef LivingLives As Byte )
+             Dim HopelivesLiving As Byte
              Dim Living As Byte
              Dim Lives As Byte
              
-             Var HopeDieLiving = New LivingLives : Living => Lives() :  UByte Or Byte
+             Var HopelivesLiving = New LivingLives : Living => Lives() :  UByte Or Byte
              Print "-------------------------------------------------------------------------------------"
-             Print     "Hope Die Living to Living Event Lives in Lives Ubyte or Byte"
+             Print     "Hope lives Living to Living Event Lives in Lives Ubyte or Byte"
              Print "-------------------------------------------------------------------------------------"
-             Print HopeDieLiving : Field => 0
+             Print HopelivesLiving : Field => 0
              Print "Entry Living Program: " 
-             Print HopeDieLiving : Field => UByte Or Byte
+             Print HopelivesLiving : Field => UByte Or Byte
              Print UByte : LivingLives
              Print Byte    : LivingLives  
              Print "OK!"
       End Sub
    Case 5 To 10
-      Sub HopeDieToRevivalLiving(ByRef LivingLives As Byte )
-             Dim HopeDieLiving As Byte
+      Sub HopelivesToRevivalLiving(ByRef LivingLives As Byte )
+             Dim HopelivesLiving As Byte
              Dim Living As Byte
              Dim Lives As Byte
              
-             Var HopeDieLiving = New LivingLives : Living => Lives() :  UByte Or Byte
+             Var HopelivesLiving = New LivingLives : Living => Lives() :  UByte Or Byte
              Print "-------------------------------------------------------------------------------------"
-             Print     "Hope Die Living to Living Event Lives in Lives Ubyte or Byte"
+             Print     "Hope lives Living to Living Event Lives in Lives Ubyte or Byte"
              Print "-------------------------------------------------------------------------------------"
-             Print HopeDieLiving : Field => 0
+             Print HopelivesLiving : Field => 0
              Print "Entry Living Program: " 
-             Print HopeDieLiving : Field => UByte Or Byte
+             Print HopelivesLiving : Field => UByte Or Byte
              Print UByte : LivingLives
              Print Byte    : LivingLives  
              Print "OK!"
       End Sub
    Case 6 To 20
-      Sub HopeDieToRevivalLiving(ByRef LivingLives As Byte )
-             Dim HopeDieLiving As Byte
+      Sub HopelivesToRevivalLiving(ByRef LivingLives As Byte )
+             Dim HopelivesLiving As Byte
              Dim Living As Byte
              Dim Lives As Byte
              
-             Var HopeDieLiving = New LivingLives : Living => Lives() :  UByte Or Byte
+             Var HopelivesLiving = New LivingLives : Living => Lives() :  UByte Or Byte
              Print "-------------------------------------------------------------------------------------"
-             Print     "Hope Die Living to Living Event Lives in Lives Ubyte or Byte"
+             Print     "Hope lives Living to Living Event Lives in Lives Ubyte or Byte"
              Print "-------------------------------------------------------------------------------------"
-             Print HopeDieLiving : Field => 0
+             Print HopelivesLiving : Field => 0
              Print "Entry Living Program: " 
-             Print HopeDieLiving : Field => UByte Or Byte
+             Print HopelivesLiving : Field => UByte Or Byte
              Print UByte : LivingLives
              Print Byte    : LivingLives  
              Print "OK!"
       End Sub
    Case 8 To 32
-      Sub HopeDieToRevivalLiving(ByRef LivingLives As Byte )
-             Dim HopeDieLiving As Byte
+      Sub HopelivesToRevivalLiving(ByRef LivingLives As Byte )
+             Dim HopelivesLiving As Byte
              Dim Living As Byte
              Dim Lives As Byte
              
-             Var HopeDieLiving = New LivingLives : Living => Lives() :  UByte Or Byte
+             Var HopelivesLiving = New LivingLives : Living => Lives() :  UByte Or Byte
              Print "-------------------------------------------------------------------------------------"
-             Print     "Hope Die Living to Living Event Lives in Lives Ubyte or Byte"
+             Print     "Hope lives Living to Living Event Lives in Lives Ubyte or Byte"
              Print "-------------------------------------------------------------------------------------"
-             Print HopeDieLiving : Field => 0
+             Print HopelivesLiving : Field => 0
              Print "Entry Living Program: " 
-             Print HopeDieLiving : Field => UByte Or Byte
+             Print HopelivesLiving : Field => UByte Or Byte
              Print UByte : LivingLives
              Print Byte    : LivingLives  
              Print "OK!"
       End Sub
    Case 9 To 64
-      Sub HopeDieToRevivalLiving(ByRef LivingLives As Byte )
-             Dim HopeDieLiving As Byte
+      Sub HopelivesToRevivalLiving(ByRef LivingLives As Byte )
+             Dim HopelivesLiving As Byte
              Dim Living As Byte
              Dim Lives As Byte
              
-             Var HopeDieLiving = New LivingLives : Living => Lives() :  UByte Or Byte
+             Var HopelivesLiving = New LivingLives : Living => Lives() :  UByte Or Byte
              Print "-------------------------------------------------------------------------------------"
-             Print     "Hope Die Living to Living Event Lives in Lives Ubyte or Byte"
+             Print     "Hope lives Living to Living Event Lives in Lives Ubyte or Byte"
              Print "-------------------------------------------------------------------------------------"
-             Print HopeDieLiving : Field => 0
+             Print HopelivesLiving : Field => 0
              Print "Entry Living Program: " 
-             Print HopeDieLiving : Field => UByte Or Byte
+             Print HopelivesLiving : Field => UByte Or Byte
              Print UByte : LivingLives
              Print Byte    : LivingLives  
              Print "OK!"
       End Sub
    Case Else
-      Sub HopeDieToRevivalLiving(ByRef LivingLives As Byte )
-             Dim HopeDieLiving As Byte
+      Sub HopelivesToRevivalLiving(ByRef LivingLives As Byte )
+             Dim HopelivesLiving As Byte
              Dim Living As Byte
              Dim Lives As Byte
              
-             Var HopeDieLiving = New LivingLives : Living => Lives() :  UByte Or Byte
+             Var HopelivesLiving = New LivingLives : Living => Lives() :  UByte Or Byte
              Print "-------------------------------------------------------------------------------------"
-             Print     "Hope Die Living to Living Event Lives in Lives Ubyte or Byte"
+             Print     "Hope lives Living to Living Event Lives in Lives Ubyte or Byte"
              Print "-------------------------------------------------------------------------------------"
-             Print HopeDieLiving : Field => 0
+             Print HopelivesLiving : Field => 0
              Print "Entry Living Program: " 
-             Print HopeDieLiving : Field => UByte Or Byte
+             Print HopelivesLiving : Field => UByte Or Byte
              Print UByte : LivingLives
              Print Byte    : LivingLives  
              Print "OK!"
@@ -189,9 +189,9 @@ End Select
 '' Sub Definition: A Sub (subroutine) must be defined outside of the main program logic 
 '' (like a Select Case block). You cannot define a Sub inside a Case.
 
-'' Variable Assignment: The line Var HopeDieLiving = New LivingLives is not valid. New is used 
+'' Variable Assignment: The line Var HopelivesLiving = New LivingLives is not valid. New is used 
 '' for creating objects, not for simple data types like Byte. The correct way to assign a value is 
-'' HopeDieLiving = LivingLives.
+'' HopelivesLiving = LivingLives.
 
 '' Invalid Syntax: The => and UByte Or Byte syntax is not part of FreeBASIC. I have removed it.
 
@@ -205,24 +205,24 @@ End Select
 
 '' Corrected and Working Code
 
-'' This code sets a variable Field to 1. The Select Case block sees this and calls the HopeDieToRevivalLiving subroutine, 
+'' This code sets a variable Field to 1. The Select Case block sees this and calls the HopelivesToRevivalLiving subroutine, 
 '' passing the myLives variable by reference (ByRef), which allows the subroutine to modify its original value.
 
 '' Generated freebasic
 ' First, define the subroutine. It must be defined outside the main program block.
 ' It takes one Byte variable ByRef, meaning it can change the original variable.
-Sub HopeDieToRevivalLiving(ByRef LivingLives As Byte)
+Sub HopelivesToRevivalLiving(ByRef LivingLives As Byte)
     
     ' Declare a local variable to hold the value passed into the sub
-    Dim HopeDieLiving As Byte
-    HopeDieLiving = LivingLives ' Correct way to assign the value
+    Dim HopelivesLiving As Byte
+    HopelivesLiving = LivingLives ' Correct way to assign the value
 
     Print "-------------------------------------------------------------------------------------"
-    Print "    Hope Die Living to Living Event Lives in Lives"
+    Print "    Hope lives Living to Living Event Lives in Lives"
     Print "-------------------------------------------------------------------------------------"
     
     ' In FreeBASIC, Byte and UByte are the same (unsigned 8-bit integer from 0 to 255)
-    Print "Entry value of LivingLives: "; HopeDieLiving
+    Print "Entry value of LivingLives: "; HopelivesLiving
     Print
 
     ' Let's simulate the "revival" event by adding a life
@@ -262,12 +262,12 @@ Print
 Select Case Field
     Case 1
         ' This code block runs because Field = 1
-        Print "Field is 1. Calling HopeDieToRevivalLiving..."
+        Print "Field is 1. Calling HopelivesToRevivalLiving..."
         Print
         
         ' Call the subroutine, passing myLives to it.
         ' Because it's passed ByRef, the Sub can change 'myLives'.
-        HopeDieToRevivalLiving(myLives)
+        HopelivesToRevivalLiving(myLives)
         
         Print "Returned from Sub."
         Print "The 'myLives' variable is now: "; myLives
@@ -296,10 +296,10 @@ Sleep ' Wait for a keypress
 '' Initial 'Field' value: 1
 '' Initial 'myLives' value: 3
 
-'' Field is 1. Calling HopeDieToRevivalLiving...
+'' Field is 1. Calling HopelivesToRevivalLiving...
 
 '' -------------------------------------------------------------------------------------
-''    Hope Die Living to Living Event Lives in Lives
+''    Hope lives Living to Living Event Lives in Lives
 -------------------------------------------------------------------------------------
 '' Entry value of LivingLives: 3
 
